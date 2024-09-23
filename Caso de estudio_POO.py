@@ -1,5 +1,5 @@
 class Products:
-    #AGREGARMOS UN COMENTARIO
+    # AGREGARMOS UN COMENTARIO
     def __init__(self):
         # Inicializa las variables privadas para almacenar el nombre, valor y el inventario
         self.__key: str = ""  # Nombre del producto
@@ -209,5 +209,4 @@ admin.salario()  # Ingresar salarios de empleados
 admin.add_sales()  # Registrar ventas
 admin.show_summary()  # Mostrar resumen de administración: inventario, empleados, ventas, gastos y ganancia
 
-#AGREMAMOS AL FINAL UN COMENTARIO
-
+# AGREMAMOS AL FINAL UN COMENTARIO
