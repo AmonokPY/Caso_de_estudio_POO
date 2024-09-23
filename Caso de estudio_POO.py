@@ -208,3 +208,6 @@ admin.add_inventory()  # Agregar productos al inventario
 admin.salario()  # Ingresar salarios de empleados
 admin.add_sales()  # Registrar ventas
 admin.show_summary()  # Mostrar resumen de administración: inventario, empleados, ventas, gastos y ganancia
+
+#AGREMAMOS AL FINAL UN COMENTARIO
+
