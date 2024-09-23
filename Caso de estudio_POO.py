@@ -1,4 +1,5 @@
 class Products:
+    #AGREGARMOS UN COMENTARIO
     def __init__(self):
         # Inicializa las variables privadas para almacenar el nombre, valor y el inventario
         self.__key: str = ""  # Nombre del producto
